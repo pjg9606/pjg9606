@@ -10,7 +10,7 @@ AI Engineer with ~4 years of experience in ML/AI systems.
 
 ##  Tech Stack
 
-`Python` `LangChain` `LangGraph` `RAG` `FAISS` `ChromaDB` `OpenAI API` `Streamlit` `Linux` `Runpod` `Hugging Face Transformers` `Gradio`
+`Python` `LangChain` `RAG` `FAISS` `ChromaDB` `OpenAI API` `Streamlit` `Linux` `Runpod` `Hugging Face Transformers` `Gradio`
 
 ##  Contact
 
