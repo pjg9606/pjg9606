@@ -11,7 +11,3 @@ AI Engineer with ~4 years of experience in ML/AI systems.
 ## 🛠 Tech Stack
 
 `Python` `LangChain` `LangGraph` `RAG` `FAISS` `ChromaDB` `OpenAI API` `Streamlit` `Linux` `Runpod` `Hugging Face Transformers` `Gradio`
-
-## 📝 Blog
-
-한국어 RAG 구축 과정과 1인 개발 여정을 기록합니다 → [rowing.log](https://velog.io/@pjg9606)
