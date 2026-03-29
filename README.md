@@ -1,6 +1,7 @@
 ##  About Me
 
 AI Engineer with ~4 years of experience in ML/AI systems.
+
 현재는 **한국어 문서(HWP, PDF) 특화 RAG 시스템**과 AI 에이전트를 만들고 있습니다.
 
 ##  Currently Working On
@@ -15,4 +16,5 @@ AI Engineer with ~4 years of experience in ML/AI systems.
 ##  Contact
 
 pjg9606@gmail.com
+
 pjg9606@naver.com
